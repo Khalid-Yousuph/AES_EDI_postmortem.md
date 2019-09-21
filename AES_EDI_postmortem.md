@@ -1,11 +1,10 @@
 # PostMortem/Root Cause Analysis of the AES EDI jira (AESEDI-53447 #465)
 
 ## Date
-2018-10-24
+2019-09-21
 
 ## Authors
-*Ludovic Marco Palamede*
-*Ops Team*
+*Khalid Yousuph*
 
 ## Status
 Complete, resolved
@@ -41,7 +40,7 @@ We have to add more monitoring plugins and modules to watch this critical part o
 
 ## Timeline
 
-2018-10-24 (*all times UTC*)
+2019-09-21 (*all times UTC*)
 
 | Time  | Description |
 | ----- | ----------- |
